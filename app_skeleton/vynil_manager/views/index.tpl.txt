@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Vinyl Manager</title>
+	</head>
+	<body>
+		<h1>Welcome to the Vinyl Manager</h1>
+		<a href="/record">[Record a Vinyl]</a>
+		<a href="/update">[Update a Vinyl]</a>
+		<a href="/delete">[Delete a Vinyl]</a>
+		<a href="/search">[Search for a Vinyl by title]</a>
+	</body>
+</html>
